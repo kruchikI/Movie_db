@@ -1,0 +1,14 @@
+
+@font-face {
+	font-family: roboto;
+	src: url(../font/roboto-medium.ttf);
+	font-weight: 500;
+}
+
+
+.contain {
+	width: 1922px;
+    margin: 0 auto;
+}
+
+
